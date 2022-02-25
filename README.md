@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohyundoh
 - 👀 I’m interested in data science and algorithms.
-- 🌱 I’m currently learning algorithm and web development
+- 🌱 I’m currently learning algorithm and web development. 
 - 📫 How to reach me give an email to lyny123@naver.com
 
 <!---
