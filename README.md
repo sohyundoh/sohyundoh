@@ -6,7 +6,7 @@
 
 🎖️BOJ STATUS🎖️
 
-출처: https://yoon990.tistory.com/38 [개발저장소]
+
 - 🌱 I’m currently learning algorithm and web development. 
 - 📫 How to reach me give an email to lyny123@naver.com
 
