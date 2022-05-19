@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sohyundoh%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=sohyundoh%20&fontSize=90)
 
 🎖️GITHUB STATUS🎖️
 
@@ -9,8 +9,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 
+🐢Most used language🐢
 
-- 📫 How to reach me give an email to lyny123@naver.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyundoh&layout=compact)](https://github.com/sohyundoh/github-readme-stats)
+
+📫 How to reach me📫 
+Email : lyny123@naver.com
 
 <!---
 sohyundoh/sohyundoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
