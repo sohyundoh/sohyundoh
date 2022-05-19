@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=sohyundoh%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=sohyundoh%20&fontSize=90)
 
 🎖️GITHUB STATUS🎖️
 
