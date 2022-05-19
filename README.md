@@ -6,7 +6,7 @@
 
 🎖️BOJ STATUS🎖️
 [![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://solved.ac/profile/lyny123})](https://solved.ac/{https://solved.ac/profile/lyny123})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://solved.ac/profile/lyny123})](https://solved.ac/{https://solved.ac/profile/lyny123})
 
 - 🌱 I’m currently learning algorithm and web development. 
 - 📫 How to reach me give an email to lyny123@naver.com
