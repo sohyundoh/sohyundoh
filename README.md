@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyundoh&show_icons=true&theme=radical)
 
 🎖️BOJ STATUS🎖️
-
+[!lyny123](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 - 🌱 I’m currently learning algorithm and web development. 
 - 📫 How to reach me give an email to lyny123@naver.com
