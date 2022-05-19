@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sohyundoh%20&fontSize=90)
 
 🎖️GITHUB STATUS🎖️
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyundoh&show_icons=true&theme=radical)
 
 🎖️BOJ STATUS🎖️
-[![Solved.ac lyny123](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 출처: https://yoon990.tistory.com/38 [개발저장소]
 - 🌱 I’m currently learning algorithm and web development. 
 - 📫 How to reach me give an email to lyny123@naver.com
