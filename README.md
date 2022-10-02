@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=sohyundoh%20&fontSize=90)
 
 🎖️GITHUB STATUS🎖️
 
@@ -14,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyundoh&layout=compact)](https://github.com/sohyundoh/github-readme-stats)
 
 📫 How to reach me📫 
-Email : lyny123@naver.com
+Email : lyny123@ewhain.net
 
 <!---
 sohyundoh/sohyundoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
