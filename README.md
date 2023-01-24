@@ -20,5 +20,3 @@
   <br>
 </p>
 
-## how to contact me
-email : lyny.doh@gmail.com / (school account) lyny123@ewhain.net
