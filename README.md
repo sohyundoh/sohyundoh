@@ -20,5 +20,5 @@
   <br>
 </p>
 
-<h3 align = "center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lyny123)](https://solved.ac/lyny123) </h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 
