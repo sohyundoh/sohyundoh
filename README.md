@@ -1,3 +1,4 @@
+<div align = "center">
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
@@ -20,6 +21,6 @@
   <br>
 </p>
 
-<div align = "center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 </div>
