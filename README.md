@@ -1,4 +1,18 @@
 <div align = "center">
+<h3>👩🏻‍🏫 Education &amp; Experiences</h3>
+<p>Ewha Womans University, Computer Science Engineering (BE) | 2020.3 -</p>
+<p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
+<p>SUAPC 2022 Winter, 주관 ICPC Sinchon | 2022.2</p>
+<p>EFUB(Ewha Frontend UXUI Backend) Frontend member | 2022.3- 2022.12</p>
+<p>EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course | 2022.7</p>
+<p>Google Developer Student Clubs 4th member | 2022.9 - now</p>
+<p>Woowacourse precourse 5th Backend course | 2022.10 - 2022.11</p>
+<p>EWHA Web Service Idea Competition | 2022.10 - 2022.12</p>
+<h3>🏆Awards</h3>
+<p>Ewha Womans University SW start-up contest excellence award (2022)</p>
+<p>EFUB exellence developer (2022)</p>
+<p>EDOC Coding Team Competition Winner (2022)</p>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
