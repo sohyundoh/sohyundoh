@@ -8,11 +8,12 @@
 <p>Google Developer Student Clubs 4th member | 2022.9 - now</p>
 <p>Woowacourse precourse 5th Backend course | 2022.10 - 2022.11</p>
 <p>EWHA Web Service Idea Competition | 2022.10 - 2022.12</p>
+<br/>
 <h3>🏆Awards</h3>
 <p>Ewha Womans University SW start-up contest excellence award (2022)</p>
 <p>EFUB exellence developer (2022)</p>
 <p>EDOC Coding Team Competition Winner (2022)</p>
-
+<br/>
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
