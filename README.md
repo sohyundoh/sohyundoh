@@ -1,6 +1,6 @@
 <div align = "center">
 <h3>👩🏻‍🏫 Education &amp; Experiences</h3>
-<p>Ewha Womans University, Computer Science Engineering (BE) | 2020.3 -</p>
+<p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
 <p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
 <p>SUAPC 2022 Winter, 주관 ICPC Sinchon | 2022.2</p>
 <p>EFUB(Ewha Frontend UXUI Backend) Frontend member | 2022.3- 2022.12</p>
