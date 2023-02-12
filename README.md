@@ -39,5 +39,6 @@
 <h3 align="center">👩🏻‍💻 Baekjoon Online Judge 👩🏻‍💻</h3>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
+프로필]
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 </div>
