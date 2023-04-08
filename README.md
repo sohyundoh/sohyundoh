@@ -8,6 +8,7 @@
 <p>Google Developer Student Clubs 4th member | 2022.9 - now</p>
 <p>Woowacourse precourse 5th Backend course | 2022.10 - 2022.11</p>
 <p>EWHA Web Service Idea Competition | 2022.10 - 2022.12</p>
+<p>SOPT(IT Venture Start-Up Club) 32th Server Part | 2023.3 - now</p>
 <br/>
 <h3>🏆Awards</h3>
 <p>Ewha Womans University SW start-up contest excellence award (2022)</p>
