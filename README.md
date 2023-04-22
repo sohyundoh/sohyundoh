@@ -29,8 +29,8 @@
 
 </p>
 
-<h3 align="center">✨ I'm currently in ✨</h3>
-<p align = "center">
+<h3>✨ I'm currently in ✨</h3>
+<p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
@@ -38,7 +38,7 @@
   <br>
 </p>
 
-<h3 align="center">👩🏻‍💻 Baekjoon Online Judge 👩🏻‍💻</h3>
+<h3>👩🏻‍💻 Baekjoon Online Judge 👩🏻‍💻</h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
