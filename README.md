@@ -1,4 +1,4 @@
-<div align = "center">
+
 <h3>👩🏻‍🏫 Education &amp; Experiences</h3>
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
 <p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
@@ -42,4 +42,4 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
-</div>
+
