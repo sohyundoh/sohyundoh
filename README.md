@@ -11,10 +11,12 @@
 <p>SOPT(IT Venture Start-Up Club) 32th Server Part | 2023.3 - now</p>
 <br/>
 
+
 ## 🏆Awards
 <p>Ewha Womans University SW start-up contest excellence award (2022)</p>
 <p>EFUB exellence developer (2022)</p>
 <p>EDOC Coding Team Competition Winner (2022)</p>
+
 
 
  
@@ -29,6 +31,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 
 </p>
+
+
+
 
 ## ✨ I'm currently in ✨
 <p>
