@@ -1,6 +1,6 @@
 
 # Sohyun Doh
-</br>
+
 ## 👩🏻‍🏫 Education &amp; Experiences
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
 <p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
