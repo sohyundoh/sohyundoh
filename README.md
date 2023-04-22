@@ -1,7 +1,5 @@
 
 # Sohyun Doh
-You can see my portfolio over here 👉 <a href="https://polite-sloop-d94.notion.site/Continuous-growth-and-progress-ad2b65fc969c4b939a4a2a9f66a15e52" target="_blank"><img src="https://img.shields.io/badge/00462A?style=social&logo=notion&logoColor=FFFFFF"/></a>
-
 </br>
 ## 👩🏻‍🏫 Education &amp; Experiences
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
