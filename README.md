@@ -1,5 +1,6 @@
 
 <h3>👩🏻‍🏫 Education &amp; Experiences</h3>
+---
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
 <p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
 <p>SUAPC 2022 Winter, 주관 ICPC Sinchon | 2022.2</p>
@@ -11,14 +12,15 @@
 <p>SOPT(IT Venture Start-Up Club) 32th Server Part | 2023.3 - now</p>
 <br/>
 <h3>🏆Awards</h3>
+---
 <p>Ewha Womans University SW start-up contest excellence award (2022)</p>
 <p>EFUB exellence developer (2022)</p>
 <p>EDOC Coding Team Competition Winner (2022)</p>
 <br/>
  
-<h3 align="center">📚 Tech Stack 📚</h3>
-
-<p align="center">
+<h3>📚 Tech Stack 📚</h3>
+---
+<p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>    <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
@@ -30,6 +32,7 @@
 </p>
 
 <h3>✨ I'm currently in ✨</h3>
+---
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
@@ -38,8 +41,8 @@
   <br>
 </p>
 
-<h3>👩🏻‍💻 Baekjoon Online Judge 👩🏻‍💻</h3>
-
+<h3>👩🏻‍💻 Problem Solving skill 👩🏻‍💻</h3>
+---
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 
