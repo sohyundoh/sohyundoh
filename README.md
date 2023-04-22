@@ -28,8 +28,7 @@
 
 </p>
 
-<h3>✨ I'm currently in ✨</h3>
----
+<h3>✨ I'm currently in ✨</h3>\
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
@@ -39,7 +38,6 @@
 </p>
 
 <h3>👩🏻‍💻 Problem Solving skill 👩🏻‍💻</h3>
----
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 
