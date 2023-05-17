@@ -4,7 +4,6 @@
 ## 👩🏻‍🏫 Education &amp; Experiences
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
 <p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
-<p>SUAPC 2022 Winter, 주관 ICPC Sinchon | 2022.2</p>
 <p>EFUB(Ewha Frontend UXUI Backend) Frontend member | 2022.3- 2022.12</p>
 <p>EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course | 2022.7</p>
 <p>Google Developer Student Clubs 4th member | 2022.9 - now</p>
