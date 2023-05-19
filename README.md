@@ -52,3 +52,16 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 
 
+---
+<table>
+<thead>
+<tr>
+<th align="left">sohyun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">![image](https://github.com/sohyundoh/sohyundoh/assets/79795051/478d604c-af15-469d-98b3-4be51a64ac37)</td>
+</tr>
+</tbody>
+</table>
