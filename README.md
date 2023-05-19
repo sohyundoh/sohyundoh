@@ -61,7 +61,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><img src = https://github.com/sohyundoh/sohyundoh/assets/79795051/478d604c-af15-469d-98b3-4be51a64ac37 width = 80/></td>
+<td align="left"><img src = https://github.com/sohyundoh/sohyundoh/assets/79795051/478d604c-af15-469d-98b3-4be51a64ac37 width = 200/></td>
 </tr>
 </tbody>
 </table>
