@@ -1,10 +1,11 @@
 
 # Sohyun Doh
+I'm backend devoloper who pursues continuous growth and progress
 
 ## 👩🏻‍🏫 Education &amp; Experiences
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
-<p>EDOC(Ewhain DO Coding) Member | 2021.11-2022.12</p>
-<p>EFUB(Ewha Frontend UXUI Backend) Frontend member | 2022.3- 2022.12</p>
+<p>EDOC(Programming Club of Ewha Womans University) Member | 2021.11-2022.12</p>
+<p>EFUB(Web Develop Club of Ewha Womans University) Frontend member | 2022.3- 2022.12</p>
 <p>EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course | 2022.7</p>
 <p>Google Developer Student Clubs 4th member | 2022.9 - now</p>
 <p>Woowacourse precourse 5th Backend course | 2022.10 - 2022.11</p>
@@ -51,17 +52,3 @@
 ## Problem Solving
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
 
-
----
-<table>
-<thead>
-<tr>
-<th align="left">sohyun</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><img src = https://github.com/sohyundoh/sohyundoh/assets/79795051/478d604c-af15-469d-98b3-4be51a64ac37 width = 200/></td>
-</tr>
-</tbody>
-</table>
