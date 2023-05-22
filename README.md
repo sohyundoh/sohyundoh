@@ -1,6 +1,6 @@
 
 # Sohyun Doh
-I'm backend devoloper who pursues continuous growth and progress
+I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## 👩🏻‍🏫 Education &amp; Experiences
 <p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
