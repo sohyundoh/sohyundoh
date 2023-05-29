@@ -9,9 +9,9 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 | Ewha Womans University, Computer Science Engineering (Bachelor of Engineering)   | 2020.3 - now    |
 | EDOC(Programming Club of Ewha Womans University) Member  |  2021.11 - 2022.12   |
 | EFUB(Web Develop Club of Ewha Womans University) Frontend member| 2022.3 - 2022.12   |
-| EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course |  2022.7    |
+| EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) Summer Program AI course |  2022.7    |
 | Google Developer Student Clubs 4th member |  2022.9 - now  |
-| SOPT(IT Venture Start-Up Club) 32th Server Part | 2023.3 - now  |
+| SOPT(IT Venture Start-Up Club) 32th Server Part YB member | 2023.3 - now  |
 
 
 
