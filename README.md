@@ -1,24 +1,28 @@
-<center>
+<div align="center">
+
+ <h1> Sohyun Doh </h1>
 I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## 👩🏻‍🏫 Education &amp; Experiences
-<p>Ewha Womans University, Computer Science Engineering (Bachelor of Engineering) | 2020.3 -</p>
-<p>EDOC(Programming Club of Ewha Womans University) Member | 2021.11-2022.12</p>
-<p>EFUB(Web Develop Club of Ewha Womans University) Frontend member | 2022.3- 2022.12</p>
-<p>EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course | 2022.7</p>
-<p>Google Developer Student Clubs 4th member | 2022.9 - now</p>
-<p>Woowacourse precourse 5th Backend course | 2022.10 - 2022.11</p>
-<p>EWHA Web Service Idea Competition | 2022.10 - 2022.12</p>
-<p>SOPT(IT Venture Start-Up Club) 32th Server Part | 2023.3 - now</p>
-<br/>
+| Experiences |   |
+|:----------:|:----------:|
+| Ewha Womans University, Computer Science Engineering (Bachelor of Engineering)   | 2020.3 - now    |
+| EDOC(Programming Club of Ewha Womans University) Member  |  2021.11 - 2022.12   |
+| EFUB(Web Develop Club of Ewha Womans University) Frontend member| 2022.3 - 2022.12   |
+| EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course |  2022.7    |
+| Google Developer Student Clubs 4th member |  2022.9 - now  |
+| SOPT(IT Venture Start-Up Club) 32th Server Part | 2023.3 - now  |
+
 
 
 ## 🏆Awards
-<p>Ewha Womans University SW start-up contest excellence award (2022)</p>
-<p>EFUB exellence developer (2022)</p>
-<p>EDOC Coding Team Competition Winner (2022)</p>
+|Awards|   |
+|:----------:|:----------:|
+| Ewha Womans University SW start-up contest excellence award   | 2022.12|
+| EFUB exellence developer  |  2022.12  |
+| EDOC Coding Team Competition Winner| 2022.3  |
+| Ewha Web Service Contest |  2022.10    |
 
-<br/>
 
  
 ## 📚 Tech Stack 📚
@@ -50,4 +54,5 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## Problem Solving
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
-</center>
+
+</div>
