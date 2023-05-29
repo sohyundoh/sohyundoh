@@ -1,5 +1,4 @@
-
-# Sohyun Doh
+<center>
 I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## 👩🏻‍🏫 Education &amp; Experiences
@@ -51,4 +50,4 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## Problem Solving
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyny123)](https://solved.ac/lyny123)
-
+</center>
