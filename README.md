@@ -5,7 +5,7 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## 👩🏻‍🏫 Education &amp; Experiences
 | Experiences |   |
-|:----------:|:----------:|
+|:----------|:----------|
 | Ewha Womans University, Computer Science Engineering (Bachelor of Engineering)   | 2020.3 - now    |
 | EDOC(Programming Club of Ewha Womans University) Member  |  2021.11 - 2022.12   |
 | EFUB(Web Develop Club of Ewha Womans University) Frontend member| 2022.3 - 2022.12   |
@@ -17,7 +17,7 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 
 ## 🏆Awards
 |Awards|   |
-|:----------:|:----------:|
+|:----------|:----------|
 | Ewha Womans University SW start-up contest excellence award   | 2022.12|
 | EFUB exellence developer  |  2022.12  |
 | EDOC Coding Team Competition Winner| 2022.3  |
