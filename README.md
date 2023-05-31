@@ -18,10 +18,11 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 ## 🏆Awards
 |Awards|   |
 |:----------|:----------|
-| Ewha Womans University SW start-up contest excellence award   | 2022.12|
-| EFUB exellence developer  |  2022.12  |
 | EDOC Coding Team Competition Winner| 2022.3  |
 | Ewha Web Service Contest |  2022.10    |
+| Ewha Womans University SW start-up contest excellence award   | 2022.12|
+| EFUB exellence developer  |  2022.12  |
+| Capstone Project Poster Session Encouragement Award | 2023.5|
 
 
  
