@@ -23,7 +23,7 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 | Ewha Womans University SW start-up contest excellence award   | 2022.12|
 | EFUB exellence developer  |  2022.12  |
 | Capstone Project Poster Session Encouragement Award | 2023.5|
-| SW Univ joint hackathon special award - KIICE Award | 2023.6|
+| SW Univ Joint Hackathon Special Award - KIICE Award | 2023.6|
 
  
 ## 📚 Tech Stack 📚
