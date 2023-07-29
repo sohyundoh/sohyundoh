@@ -11,7 +11,7 @@ I'm backend devoloper who pursues continuous growth and progress 🐥
 | EFUB(Web Develop Club of Ewha Womans University) Frontend member| 2022.3 - 2022.12   |
 | EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) Summer Program AI course |  2022.7    |
 | Google Developer Student Clubs 4th member |  2022.9 - 2023.7  |
-| SOPT(IT Venture Start-Up Club) 32th Server Part YB member | 2023.3 - 2023.7 |
+| SOPT(IT Venture Start-Up Club) 32th Server Part YB | 2023.3 - 2023.7 |
 
 
 
